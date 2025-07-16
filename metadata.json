@@ -1,0 +1,7 @@
+
+{
+  "name": "Roblox Game Forge",
+  "description": "Uses AI to generate a complete Roblox game from a simple text prompt, including scripts, a map builder, and a setup guide.",
+  "requestFramePermissions": [],
+  "prompt": "Create a website that can make a whole roblox game and give you the scipts and even some maps that you can use, there should also be guide on how to create the game in roblox, be sure to show every step."
+}
